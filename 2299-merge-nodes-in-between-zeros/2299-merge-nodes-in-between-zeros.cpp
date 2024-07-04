@@ -15,12 +15,12 @@ public:
         ListNode* prev = head-> next;
         ListNode* newhead = new ListNode(0);
         ListNode* temp1 = newhead;
-        ListNode* temp;
+        
         while (prev!= NULL){
           
             sum += prev-> val;
-            if (prev -> val == 0){
-                temp = new ListNode(sum);
+            if (prev->val == 0){
+                ListNode* temp = new ListNode(sum);
                 sum = 0;
                   newhead -> next = temp;
                   newhead = temp;
@@ -28,6 +28,6 @@ public:
             prev = prev->next;
           
         }
-        return temp1->next;
+        return temp1-> next;
     }
 };
