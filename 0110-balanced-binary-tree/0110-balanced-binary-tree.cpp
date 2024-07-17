@@ -16,8 +16,9 @@ public:
 
         int left = sol(root -> left);
         int right = sol(root -> right);
-        if (left == -1 || right == -1)return -1;
         if (abs(left-right) >1)return -1;
+                if (left == -1 || right == -1)return -1;
+
         return max(left,right)+1;
     }
     bool isBalanced(TreeNode* root) {
