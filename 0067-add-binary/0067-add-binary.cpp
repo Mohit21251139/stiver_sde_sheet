@@ -1,62 +1,56 @@
 class Solution {
 public:
-    string addBinary(string str1, string str2) {
-        
-        int n = str1.size();
-        
-        int m = str2.size();
-        
-        int carry = 0;
-        
-        string res = "";
-        
-        // start traversing from right side
-        
-        int i = n - 1, j = m - 1;
-        
-        while(i >= 0 || j >= 0 || carry)
-        {
-            // calculate sum
-            
-            int sum = 0;
-            
-            if(i >= 0)
-            {
-                sum += str1[i] - '0';
+    string addBinary(string a, string b) {
+        int n=a.size();
+        int m=b.size();
+        string str="";
+        int i=n-1,j=m-1;
+        int c=0;
+        while(i>=0&&j>=0){
+            int a1=a[i]-'0',a2=b[j]-'0';
+            a1=a1+a2+c;
+            if(a1==2){
+                str+='0';
+                c=1;
             }
-            
-            if(j >= 0)
-            {
-                sum += str2[j] - '0';
+            else if(a1==3){
+                str+='1';
+                c=1;
             }
-            
-            sum += carry;
-            
-            // update carry
-            
-            carry = sum / 2;
-            
-            // find the digit
-            
-            int digit = (sum % 2) + 48;
-           
-            char char_digit = (char) digit;
-            
-            // update res
-            
-            res += char_digit;
-            
-            // update pointers
-            
+            else{
+                str+=a1+'0';
+                c=0;
+            }
+            i--;j--;
+        }
+        while(i>=0){
+            int a1=a[i]-'0';
+            a1+=c;
+            if(a1==2){
+                str+='0';
+                c=1;
+            }else{
+                str+=a1+'0';
+                c=0;
+            }
             i--;
-            
+        }
+        while(j>=0){
+            int a1=b[j]-'0';
+            a1+=c;
+            if(a1==2){
+                str+='0';
+                c=1;
+            }else{
+                str+=a1+'0';
+                c=0;
+            }
             j--;
         }
-        
-        // reverse the res string
-        
-        reverse(res.begin(), res.end());
-        
-        return res;
+        if(c){
+            str+='1';
+        }
+        reverse(str.begin(),str.end());
+        return str;
     }
 };
