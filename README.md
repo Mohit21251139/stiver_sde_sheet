@@ -81,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0383-ransom-note) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
