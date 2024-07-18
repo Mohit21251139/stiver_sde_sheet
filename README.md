@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2645-pass-the-pillow) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0383-ransom-note) |
 | [1720-crawler-log-folder](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1720-crawler-log-folder) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
