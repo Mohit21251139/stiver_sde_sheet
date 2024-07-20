@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0219-contains-duplicate-ii) |
+| [0907-koko-eating-bananas](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0278-first-bad-version) |
+| [0907-koko-eating-bananas](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0907-koko-eating-bananas) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2294-minimum-time-to-complete-trips) |
 ## Interactive
 |  |
