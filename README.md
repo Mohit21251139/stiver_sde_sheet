@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2294-minimum-time-to-complete-trips) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2472-build-a-matrix-with-conditions) |
 ## Greedy
 |  |
 | ------- |
@@ -157,10 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0310-minimum-height-trees) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0310-minimum-height-trees) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2472-build-a-matrix-with-conditions) |
 ## Design
 |  |
 | ------- |
