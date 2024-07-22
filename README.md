@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0503-next-greater-element-ii) |
 | [0907-koko-eating-bananas](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0907-koko-eating-bananas) |
+| [0943-sum-of-subarray-minimums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1720-crawler-log-folder) |
 ## Tree
@@ -186,5 +188,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
