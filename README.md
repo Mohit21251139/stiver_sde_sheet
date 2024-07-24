@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1333-sort-the-jumbled-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2502-sort-the-people) |
