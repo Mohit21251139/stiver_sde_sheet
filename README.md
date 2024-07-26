@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0310-minimum-height-trees) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0131-palindrome-partitioning) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0943-sum-of-subarray-minimums) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
 |  |
 | ------- |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
