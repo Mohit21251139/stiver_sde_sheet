@@ -4,9 +4,9 @@ public:
         int i = 0,j = nums.size()-1;
         long long  sum = 0;
         while (i<j){
-            int mini = min(nums[i],nums[j]);
+          
 
-            long long   ans = (j-i) * mini;
+            long long   ans = (j-i) *  min(nums[i],nums[j]);
             if (nums[i] < nums[j]){
                 i++;
             }
