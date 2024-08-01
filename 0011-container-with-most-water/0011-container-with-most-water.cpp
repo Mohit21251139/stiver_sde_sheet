@@ -16,6 +16,6 @@ public:
             sum = max(sum,ans);
 
         }
-        return sum;
+        return (int)sum;
     }
 };
