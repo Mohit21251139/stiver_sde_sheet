@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1803-average-waiting-time) |
+| [1833-find-the-highest-altitude](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2294-minimum-time-to-complete-trips) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2472-build-a-matrix-with-conditions) |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0937-online-stock-span) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
