@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0496-next-greater-element-i) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
@@ -301,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
