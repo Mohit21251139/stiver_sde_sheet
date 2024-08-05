@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0383-ransom-note) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0383-ransom-note) |
