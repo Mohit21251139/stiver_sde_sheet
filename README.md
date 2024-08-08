@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0907-koko-eating-bananas) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0605-can-place-flowers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Sorting
