@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0059-spiral-matrix-ii) |
 | [0090-subsets-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1803-average-waiting-time) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0059-spiral-matrix-ii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2472-build-a-matrix-with-conditions) |
 ## Design
