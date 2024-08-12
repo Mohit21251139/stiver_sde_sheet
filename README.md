@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0110-balanced-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0110-balanced-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0098-validate-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Matrix
 |  |
 | ------- |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0155-min-stack) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -334,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0937-online-stock-span) |
 ## Prefix Sum
 |  |
