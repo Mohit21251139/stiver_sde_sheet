@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0496-next-greater-element-i) |
 | [0870-magic-squares-in-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0870-magic-squares-in-grid) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0806-domino-and-tromino-tiling) |
