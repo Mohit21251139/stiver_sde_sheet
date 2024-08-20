@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0392-is-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0650-2-keys-keyboard) |
 | [0806-domino-and-tromino-tiling](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0806-domino-and-tromino-tiling) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1196-filling-bookcase-shelves) |
