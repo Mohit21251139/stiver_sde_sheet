@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0310-minimum-height-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Hash Table
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0310-minimum-height-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0999-regions-cut-by-slashes) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Sliding Window
 |  |
