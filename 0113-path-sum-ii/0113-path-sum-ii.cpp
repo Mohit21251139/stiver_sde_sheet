@@ -22,7 +22,8 @@ public:
             ans.push_back(temp);
         }
         else{
-          temp.pop_back();
+        //   temp.pop_back();
+        return ans;
         }
         
 
