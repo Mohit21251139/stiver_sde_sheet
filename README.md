@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0503-next-greater-element-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0113-path-sum-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0113-path-sum-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0310-minimum-height-trees) |
 | [0437-path-sum-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0437-path-sum-iii) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0113-path-sum-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
