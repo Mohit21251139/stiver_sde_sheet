@@ -1,27 +1,20 @@
 class Solution {
 public:
     int getLucky(string s, int k) {
-           int c = 0;
-        
-        // Convert each character to its numeric equivalent and sum the digits
-        for (char i : s) {
-            int x = i - 'a' + 1;
-            while (x > 0) {
-                c += x % 10;
-                x /= 10;
-            }
-        }
-
-        // Perform the reduction step k-1 times
-        while (--k > 0 && c > 9) {
-            int y = 0;
-            while (c > 0) {
-                y += c % 10;
-                c /= 10;
-            }
-            c = y;
+    string number = "";
+        for (char x : s) {
+            number += to_string(x - 'a' + 1);
         }
         
-        return c;
+        // Perform the transformation `k` times
+        while (k > 0) {
+            int temp = 0;
+            for (char x : number) {
+                temp += x - '0';  // Sum the digits of the current number
+            }
+            number = to_string(temp);  // Convert the sum back to a string
+            k--;
+        }
+        return stoi(number); 
     }
 };
