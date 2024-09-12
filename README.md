@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1833-find-the-highest-altitude) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2502-sort-the-people) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0383-ransom-note) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
 |  |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
