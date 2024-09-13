@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0146-lru-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0725-split-linked-list-in-parts) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0937-online-stock-span) |
@@ -440,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
