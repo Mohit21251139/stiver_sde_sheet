@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0273-integer-to-english-words) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0496-next-greater-element-i) |
