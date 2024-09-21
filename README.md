@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0310-minimum-height-trees) |
+| [0386-lexicographical-numbers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0437-path-sum-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
@@ -483,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
