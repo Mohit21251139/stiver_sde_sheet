@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0198-house-robber) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0241-different-ways-to-add-parentheses) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0496-next-greater-element-i) |
