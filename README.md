@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0278-first-bad-version) |
 | [0729-my-calendar-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0731-my-calendar-ii) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0338-counting-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
