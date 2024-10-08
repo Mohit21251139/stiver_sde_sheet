@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0605-can-place-flowers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
 | ------- |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0392-is-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Union Find
 |  |
 | ------- |
