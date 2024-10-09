@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0605-can-place-flowers) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0392-is-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1720-crawler-log-folder) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1720-crawler-log-folder) |
