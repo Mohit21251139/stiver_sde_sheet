@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2502-sort-the-people) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Quickselect
 |  |
 | ------- |
