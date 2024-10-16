@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0040-combination-sum-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
