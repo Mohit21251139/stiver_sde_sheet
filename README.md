@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0595-big-countries) |
+| [1161-project-employees-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
