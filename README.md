@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2502-sort-the-people) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2502-sort-the-people) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2502-sort-the-people) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2586-longest-square-streak-in-an-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2294-minimum-time-to-complete-trips) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2586-longest-square-streak-in-an-array) |
 ## Interactive
 |  |
 | ------- |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2586-longest-square-streak-in-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Backtracking
 |  |
