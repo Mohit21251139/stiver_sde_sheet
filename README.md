@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0739-daily-temperatures) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1694-make-sum-divisible-by-p) |
