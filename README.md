@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2727-number-of-senior-citizens) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
