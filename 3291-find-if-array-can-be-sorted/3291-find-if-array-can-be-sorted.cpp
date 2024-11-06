@@ -13,7 +13,7 @@ public:
         int maxi = nums[0];
         int bits = sol(nums[0]);
         int lastmaxi = 0;
-        for (int i =0;i< nums.size();i++){
+        for (int i =1;i< nums.size();i++){
             bool bitchange = bits!= sol(nums[i]);
             if (bitchange){
                 lastmaxi = maxi;
