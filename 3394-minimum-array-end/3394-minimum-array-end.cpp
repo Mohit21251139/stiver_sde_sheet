@@ -1,0 +1,11 @@
+class Solution {
+public:
+    long long minEnd(int n, int x) {
+        long ans = x;
+        n --;
+        while(n--){
+            ans = (ans +1) | x;
+        }
+        return ans;
+    }
+};
