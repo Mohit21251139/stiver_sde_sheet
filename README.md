@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Bit Manipulation
 |  |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3394-minimum-array-end](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3394-minimum-array-end) |
 ## Divide and Conquer
