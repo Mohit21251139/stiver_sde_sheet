@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2502-sort-the-people) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2636-maximum-subsequence-score) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2636-maximum-subsequence-score) |
 ## Quickselect
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3195-separate-black-and-white-balls) |
 ## Union Find
