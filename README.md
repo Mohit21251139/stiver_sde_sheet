@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0374-guess-number-higher-or-lower) |
 ## Breadth-First Search
 |  |
 | ------- |
