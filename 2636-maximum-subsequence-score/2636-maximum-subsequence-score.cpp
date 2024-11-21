@@ -8,6 +8,7 @@ public:
             temp.push_back({nums2[i],nums1[i]});
         }
         sort(temp.rbegin(),temp.rend());
+        int cnt =0;
         for (int i =0;i< nums1.size();i++){
             sum += temp[i].second;
             pq.push(temp[i].second);
