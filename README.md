@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1256-rank-transform-of-an-array) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0999-regions-cut-by-slashes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0999-regions-cut-by-slashes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2132-convert-1d-array-into-2d-array) |
