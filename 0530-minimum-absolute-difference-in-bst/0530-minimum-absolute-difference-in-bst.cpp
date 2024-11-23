@@ -21,7 +21,7 @@ public:
         sol(root -> right);
     }
     int getMinimumDifference(TreeNode* root) {
-        int mini = 1e9;
+        int mini = INT_MAX;
         sol(root);
                 int n = ans.size();
 
