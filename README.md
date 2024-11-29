@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Greedy
 |  |
 | ------- |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2636-maximum-subsequence-score) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Design
 |  |
 | ------- |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
