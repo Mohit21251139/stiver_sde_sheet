@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0198-house-robber) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0051-n-queens) |
