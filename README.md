@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0205-isomorphic-strings) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0079-word-search) |
 | [0787-sliding-puzzle](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0921-spiral-matrix-iii) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0131-palindrome-partitioning) |
