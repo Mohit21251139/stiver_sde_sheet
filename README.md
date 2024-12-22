@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0948-sort-an-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0870-magic-squares-in-grid) |
+| [0909-stone-game](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1236-n-th-tribonacci-number) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0650-2-keys-keyboard) |
 | [0806-domino-and-tromino-tiling](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0806-domino-and-tromino-tiling) |
+| [0909-stone-game](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1196-filling-bookcase-shelves) |
@@ -877,4 +880,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [2868-continuous-subarrays](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2868-continuous-subarrays) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
