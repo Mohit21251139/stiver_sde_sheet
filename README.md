@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0112-path-sum) |
 | [0310-minimum-height-trees](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0310-minimum-height-trees) |
 | [0433-minimum-genetic-mutation](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0433-minimum-genetic-mutation) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
