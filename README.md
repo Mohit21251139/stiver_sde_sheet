@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0228-summary-ranges) |
+| [0494-target-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0605-can-place-flowers) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0650-2-keys-keyboard) |
 | [0806-domino-and-tromino-tiling](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0806-domino-and-tromino-tiling) |
 | [0909-stone-game](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0909-stone-game) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Merge Sort
