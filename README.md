@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
+| [1025-minimum-cost-for-tickets](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1196-filling-bookcase-shelves) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0954-maximum-sum-circular-subarray) |
+| [1025-minimum-cost-for-tickets](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1196-filling-bookcase-shelves) |
 | [1236-n-th-tribonacci-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1236-n-th-tribonacci-number) |
