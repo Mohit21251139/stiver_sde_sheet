@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0433-minimum-genetic-mutation) |
 | [0812-rotate-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1207-delete-nodes-and-return-forest) |
