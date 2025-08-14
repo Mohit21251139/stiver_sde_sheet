@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2232-adding-spaces-to-a-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2470-removing-stars-from-a-string) |
