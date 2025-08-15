@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0371-sum-of-two-integers) |
 | [0650-2-keys-keyboard](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0670-maximum-swap) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0371-sum-of-two-integers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
