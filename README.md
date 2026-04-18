@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2868-continuous-subarrays](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/2868-continuous-subarrays) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1833-find-the-highest-altitude) |
