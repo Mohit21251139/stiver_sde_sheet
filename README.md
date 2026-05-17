@@ -937,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0584-find-customer-referee) |
