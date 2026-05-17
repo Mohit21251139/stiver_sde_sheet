@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0433-minimum-genetic-mutation) |
+| [0459-repeated-substring-pattern](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0952-word-subsets) |
@@ -909,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
