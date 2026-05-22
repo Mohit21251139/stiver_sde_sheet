@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0432-all-oone-data-structure) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0273-integer-to-english-words) |
