@@ -945,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0595-big-countries) |
