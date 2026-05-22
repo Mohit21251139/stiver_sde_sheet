@@ -9,20 +9,17 @@
  * };
  */
 class Solution {
-    private:
-    ListNode* reverse(ListNode* head){
-        //base case 
-        if (head == NULL  ||  head-> next == NULL){
+public:
+    ListNode* Reverse(ListNode* head){
+        if (head == NULL || head -> next == NULL){
             return head;
         }
-        
-        ListNode* chottaHead = reverse(head -> next);
-        head -> next -> next = head;
+        ListNode* littleHead = Reverse(head -> next);
+        head -> next -> next = head ;
         head -> next = NULL;
-        return chottaHead;
+        return littleHead;
     }
-public:
     ListNode* reverseList(ListNode* head) {
-       return reverse(head);
+        return Reverse(head);
     }
 };
