@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0071-simplify-path) |
