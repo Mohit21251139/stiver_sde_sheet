@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0268-missing-number) |
 | [0494-target-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0503-next-greater-element-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0767-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0780-max-chunks-to-make-sorted) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0371-sum-of-two-integers) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0432-all-oone-data-structure) |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0729-my-calendar-i) |
@@ -634,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0371-sum-of-two-integers) |
