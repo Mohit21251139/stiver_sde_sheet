@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0136-single-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0202-happy-number) |
