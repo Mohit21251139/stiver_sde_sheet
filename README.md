@@ -986,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-salary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0627-swap-salary) |
 | [1161-project-employees-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1161-project-employees-i) |
 | [1317-monthly-transactions-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1317-monthly-transactions-i) |
