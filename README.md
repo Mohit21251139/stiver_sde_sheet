@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0432-all-oone-data-structure) |
 | [0707-design-linked-list](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0707-design-linked-list) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0241-different-ways-to-add-parentheses) |
