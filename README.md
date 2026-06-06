@@ -1001,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1795-rearrange-products-table](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1795-rearrange-products-table) |
 | [1827-invalid-tweets](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1908-recyclable-and-low-fat-products) |
 | [1965-employees-with-missing-information](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1965-employees-with-missing-information) |
