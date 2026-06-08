@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0954-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0994-rotting-oranges) |
 | [0999-regions-cut-by-slashes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1025-minimum-cost-for-tickets) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0787-sliding-puzzle) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0871-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0994-rotting-oranges) |
 | [0999-regions-cut-by-slashes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0999-regions-cut-by-slashes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1396-count-servers-that-communicate) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0921-spiral-matrix-iii) |
+| [0994-rotting-oranges](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0994-rotting-oranges) |
 | [0999-regions-cut-by-slashes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1396-count-servers-that-communicate) |
