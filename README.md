@@ -1008,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1795-rearrange-products-table](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1795-rearrange-products-table) |
 | [1827-invalid-tweets](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1827-invalid-tweets) |
+| [1873-calculate-special-bonus](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1908-recyclable-and-low-fat-products) |
 | [1965-employees-with-missing-information](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1965-employees-with-missing-information) |
