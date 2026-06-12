@@ -1,42 +1,39 @@
 class Solution {
-      private:
-   int oper(int a,int b, string val){
-      char ch = val[0];
-      if (ch == '*'){
-        return a*b;
-      }
-      else if (ch == '-'){
-        return b-a;
-      }
-      else if (ch == '+'){
-        return a+b;
-      }
-      else if (ch == '/'){
-        return b/a;
-      }
-      else {
-        return -1;
-      }
-
-   }
 public:
- 
+    int val(int num1, int num2,string s){
+        char ch = s[0];
+        if (ch == '*'){
+            return num1 * num2;
+        }
+        else if (ch == '+'){
+            return num1 + num2;
+        }
+        else if (ch == '/'){
+            return num2 / num1;
+        }
+        else if(ch == '-'){
+            return num2 - num1;
+        }
+        else {
+            return -1;
+        }
+    }
     int evalRPN(vector<string>& tokens) {
+        int n = tokens.size();
         stack<int> st;
-        for (int i = 0;i<tokens.size();i++){
+        for (int i =0 ;i< n;i++){
             if (tokens[i]== "*" || tokens[i] == "-" || tokens[i] == "+" || tokens[i] == "/"){
-                   int num1 = st.top();
-                   st.pop();
-                   int num2 = st.top();
-                   st.pop();
-                   int newval = oper(num1,num2,tokens[i]);
-                   st.push(newval);
+                int n = st.top();
+                st.pop();
+                int m = st.top();
+                st.pop();
+                int res = val(n,m,tokens[i]);
+                st.push(res);
             }
-            else{
+            else {
                 st.push(stoi(tokens[i]));
             }
         }
         return st.top();
-
     }
 };
