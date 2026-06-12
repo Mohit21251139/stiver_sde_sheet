@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0141-linked-list-cycle) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0686-repeated-string-match) |
