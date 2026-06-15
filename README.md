@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0954-maximum-sum-circular-subarray) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0503-next-greater-element-ii) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0432-all-oone-data-structure) |
 | [0707-design-linked-list](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0729-my-calendar-i) |
