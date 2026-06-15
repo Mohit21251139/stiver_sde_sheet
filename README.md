@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0432-all-oone-data-structure) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0217-contains-duplicate) |
@@ -925,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0283-move-zeroes) |
