@@ -1022,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1527-patients-with-a-condition](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1633-percentage-of-users-attended-a-contest) |
