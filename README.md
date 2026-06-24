@@ -1020,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1390-average-selling-price) |
+| [1407-top-travellers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1407-top-travellers) |
 | [1415-students-and-examinations](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1517-find-users-with-valid-e-mails) |
