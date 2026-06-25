@@ -1018,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1161-project-employees-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1174-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1317-monthly-transactions-i) |
+| [1321-restaurant-growth](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1321-restaurant-growth) |
 | [1338-queries-quality-and-percentage](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1390-average-selling-price) |
 | [1407-top-travellers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1407-top-travellers) |
