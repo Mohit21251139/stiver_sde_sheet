@@ -1023,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1338-queries-quality-and-percentage](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1390-average-selling-price) |
+| [1393-capital-gainloss](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1407-top-travellers) |
 | [1415-students-and-examinations](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1415-students-and-examinations) |
 | [1484-group-sold-products-by-the-date](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1484-group-sold-products-by-the-date) |
