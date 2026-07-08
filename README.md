@@ -1017,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0619-biggest-single-number) |
 | [0627-swap-salary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0627-swap-salary) |
+| [1045-customers-who-bought-all-products](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1070-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1161-project-employees-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1174-immediate-food-delivery-ii) |
