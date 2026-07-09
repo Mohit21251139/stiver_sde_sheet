@@ -1026,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1338-queries-quality-and-percentage](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1338-queries-quality-and-percentage) |
+| [1341-movie-rating](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1341-movie-rating) |
 | [1390-average-selling-price](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1390-average-selling-price) |
 | [1393-capital-gainloss](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1407-top-travellers) |
