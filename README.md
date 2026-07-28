@@ -1027,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/0627-swap-salary) |
 | [1045-customers-who-bought-all-products](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Mohit21251139/stiver_sde_sheet/tree/master/1070-product-sales-analysis-iii) |
